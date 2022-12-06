@@ -1,2 +1,4 @@
 # odin-recipes
-This is my first project. It will contain a website with a basic recipe using HTML. It follows a brutalist design.
+This if my first project.
+I will use HTMl to create a website with a recipe.
+I will follow a brutalist design.
