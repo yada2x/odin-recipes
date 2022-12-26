@@ -1,12 +1,18 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(129, 211, 97);
     
+}
+
+.center {
+    text-align: center;
 }
 
 .title {
     background-color: #096609;
     font-size: 36px;
     color: white;
+    text-align: center;
 }
 
 .subtitle {
@@ -15,9 +21,18 @@
     color: white;
 }
 
+.section {
+    background-color: rgb(15, 129, 15);
+    font-size: 16px;
+    color: white;
+}
+
+.subsection {
+    color: green;
+    font-size: 14px;
+}
+
 .button {
-    background-color: rgb(221, 233, 203);
     border: none;
     padding: 2px 8px;
-    text-align: center;
 }
